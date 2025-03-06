@@ -6,7 +6,7 @@ import java.util.Scanner;
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void main(String[] args) {
-   /*     // Пошук елемента за значенням
+       // Пошук елемента за значенням
         // Зчитати з клавіатури розмір масиву n.
         // Створити масив цілих чисел і заповнити його даними користувача.
         // Запитати у користувача, яке число треба знайти.
@@ -48,6 +48,6 @@ public class Main {
         } else {
             System.out.println("Шуканий елемент не знайдено :(");
         }
-*/
+
     }
 }
